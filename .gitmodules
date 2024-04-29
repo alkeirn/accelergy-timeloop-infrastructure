@@ -30,3 +30,9 @@
 	url = https://github.com/Accelergy-Project/accelergy-adc-plug-in.git
 	branch = main
 
+[submodule "src/timeloop"]
+	path = src/timeloop
+	url = https://github.com/alkeirn/timeloop
+[submodule "src/timeloopfe"]
+	path = src/timeloopfe
+	url = https://github.com/alkeirn/timeloopfe
