@@ -13,10 +13,6 @@
 [submodule "src/cacti"]
 	path = src/cacti
 	url = https://github.com/HewlettPackard/cacti.git
-[submodule "src/timeloop"]
-	path = src/timeloop
-	url = https://github.com/alkeirn/timeloop.git
-	branch = master
 [submodule "src/timeloop-python"]
 	path = src/timeloop-python
 	url = https://github.com/Accelergy-Project/timeloop-python.git
@@ -33,7 +29,4 @@
 	path = src/accelergy-adc-plug-in
 	url = https://github.com/Accelergy-Project/accelergy-adc-plug-in.git
 	branch = main
-[submodule "src/timeloopfe"]
-	path = src/timeloopfe
-	url = https://github.com/alkeirn/timeloopfe.git
-	branch = master
+
