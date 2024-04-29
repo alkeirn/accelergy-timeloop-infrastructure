@@ -15,7 +15,7 @@
 	url = https://github.com/HewlettPackard/cacti.git
 [submodule "src/timeloop"]
 	path = src/timeloop
-	url = https://github.com/NVlabs/timeloop.git
+	url = https://github.com/alkeirn/timeloop.git
 [submodule "src/timeloop-python"]
 	path = src/timeloop-python
 	url = https://github.com/Accelergy-Project/timeloop-python.git
@@ -34,4 +34,4 @@
 	branch = main
 [submodule "src/timeloopfe"]
 	path = src/timeloopfe
-	url = https://github.com/Accelergy-Project/timeloopfe.git
+	url = https://github.com/alkeirn/timeloopfe.git
