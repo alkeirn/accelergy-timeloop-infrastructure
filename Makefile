@@ -19,7 +19,7 @@ DOCKER_NAME ?= timeloopaccelergy
 
 VERSION := 0.2
 
-USER    := timeloopaccelergy
+USER    := kartikesh314
 REPO    := accelergy-timeloop-infrastructure
 
 NAME    := ${USER}/${REPO}
